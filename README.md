@@ -1,5 +1,9 @@
 # User Profile Disk Manager
 
+[![RAD Studio](https://img.shields.io/badge/RAD%20Studio-Delphi-red.svg)](https://www.embarcadero.com/products/rad-studio)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
+[![License](https://img.shields.io/badge/License-Apache2.0-green.svg)](LICENSE)
+
 A small Windows utility for browsing, inspecting, and cleaning up **Remote Desktop Services
 User Profile Disks** (`.vhdx` / `.vhd`). Point it at the folder where your User Profile
 Disks live and it lists every disk with the user it belongs to, when it was last accessed,
